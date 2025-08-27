@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there, I'm Mahi Shah!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F0&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Web+Development+Enthusiast;IoT+Explorer;Poet;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F0&center=true&vCenter=true&width=600&lines=Computer+Science+Major;AI/ML+Practitioner;Research+Enthusiast;Tech+Upgrader;Learning-Growing-Improving-Evolving!" alt="Typing SVG" />
 </div>
 
 <p align="center">
