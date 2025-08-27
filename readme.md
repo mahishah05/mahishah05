@@ -100,8 +100,9 @@ const mahishah = {
 <tr>
 <td width="50%">
 
-### 🏪 [GemmaBot - Document Chatbot](https://github.com/mahishah05/Document-ChatBot-Model)
-A conversational AI model that delivers interactive and immersive experiences by responding thoughtfully to user prompts in real-time.
+### 🏪 [GradeFlow - AI Assistant For Teacher](https://github.com/mahishah05/GradeFlow)
+A robust, AI-driven educational evaluation platform built to revolutionize academic assessment in high-volume educational environments like India.<img width="2161" height="70" alt="image" src="https://github.com/user-attachments/assets/69bac0b3-de2b-41e9-8ce0-79f2a1d750f9" />
+
 
 **Tech Stack:** `Python` `Streamlit` `Langchain` `FAISS`
 
