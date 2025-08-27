@@ -109,10 +109,10 @@ A robust, AI-driven educational evaluation platform built to revolutionize acade
 </td>
 <td width="50%">
 
-### 🎉 [EventEase - Event Management & Ticket Booking Platform](https://github.com/maitreemistry/event-management-platform) 
-Full-featured event management solution with booking and notification systems.
+### 🎉 [Clairvoix AI](https://github.com/mahishah05/Clairvoix-AI) 
+Multimodal Voice Assistant – A Python-based application that seamlessly integrates LLaVA for interpreting visual and textual input with Whisper for speech transcription.
 
-**Tech Stack:** `PERN`
+**Tech Stack:** `Python` `Llava-7B` `Whisper` `PyTorch` `bitsandbytes` `Gradio` `Accelerate`
 
 </td>
 </tr>
