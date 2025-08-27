@@ -20,7 +20,7 @@ const mahishah = {
     reserach-internship: "IIT-Gandhinagar",
     currentFocus: ["Machine Learning", "Web Development", "Research Work"],
     achievements: [
-        "Top100 teams in Google's Solution Challenge Hackathon 2025",
+        "Top 105 teams in Google's Solution Challenge Hackathon 2025",
         "Published a conference paper at IEEE AIMV 2025",
         "Scored 43/50 in Cambridge English Placement Test"
     ],
