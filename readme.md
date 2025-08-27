@@ -100,10 +100,10 @@ const mahishah = {
 <tr>
 <td width="50%">
 
-### 🏪 [Inventory Management System](https://github.com/mahishah05/Document-ChatBot-Model)
+### 🏪 [GemmaBot - Document Chatbot](https://github.com/mahishah05/Document-ChatBot-Model)
 A conversational AI model that delivers interactive and immersive experiences by responding thoughtfully to user prompts in real-time.
 
-**Tech Stack:** `PHP` `MySQL`
+**Tech Stack:** `Python` `Streamlit` `Langchain` `FAISS`
 
 </td>
 <td width="50%">
