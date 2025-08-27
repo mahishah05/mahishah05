@@ -137,7 +137,7 @@ ML-powered sentiment analysis tool for processing and analyzing text data emotio
 </div>
 
 <div align="center">
-  <a href="https://github.com/maitreemistry?tab=repositories">
+  <a href="https://github.com/mahishah05?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
   </a>
 </div>
