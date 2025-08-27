@@ -127,10 +127,10 @@ A streamlined event management and ticket-booking platform that simplifies event
 </td>
 <td width="50%">
 
-### 🔍 [Sentiment Analysis](https://github.com/maitreemistry/sentiment-analysis-python)
-ML-powered sentiment analysis tool for processing and analyzing text data emotions.
+### 🔍 [GemmaBot - Document Chatbot](https://github.com/mahishah05/Document-ChatBot-Model)
+A conversational AI model that delivers interactive and immersive experiences by responding thoughtfully to user prompts in real-time.
 
-**Tech Stack:** `Python` `Machine Learning` `NLP`
+**Tech Stack:** `Python` `Streamlit` `Langchain` `FAISS`
 
 </td>
 </tr>
