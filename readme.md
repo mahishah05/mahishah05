@@ -176,6 +176,10 @@ mindmap
   <a href="https://github.com/mahishah05">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+<a href="mahi.tech04@gmail.com"> 
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</a>
+
 </div>
 
 <div align="center">
