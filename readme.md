@@ -191,7 +191,7 @@ mindmap
 <img src="https://visitor-badge.laobi.icu/badge?page_id=maitreemistry.maitreemistry" alt="Visitor Badge" />
 
 <div align="center">
-    <h3>💫 "Learning never stops and neither does innovation!" 💫</h3>
+    <h3>💫 "Learning is the cornerstone of technological progress and professional growth!" 💫</h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=16&fontAlignY=65&descAlign=50" />
 </div>
 
