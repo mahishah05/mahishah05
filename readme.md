@@ -108,7 +108,7 @@ A conversational AI model that delivers interactive and immersive experiences by
 </td>
 <td width="50%">
 
-### 🎉 [Event Management Platform](https://github.com/maitreemistry/event-management-platform) 
+### 🎉 [EventEase - Event Management & Ticket Booking Platform](https://github.com/maitreemistry/event-management-platform) 
 Full-featured event management solution with booking and notification systems.
 
 **Tech Stack:** `PERN`
@@ -118,10 +118,10 @@ Full-featured event management solution with booking and notification systems.
 <tr>
 <td width="50%">
 
-### 📱 [QR Code Generator](https://github.com/maitreemistry/qr-code-generator)
-Simple yet powerful tool for generating customized QR codes with various options.
+### 📱 [EventEase - Event Management & Ticket Booking Platform](https://github.com/mahishah05/EventEase)
+A streamlined event management and ticket-booking platform that simplifies event discovery and user engagement through intuitive, high-performance workflows.
 
-**Tech Stack:** `JavaScript` `jQuery`
+**Tech Stack:** `TypeScript` `MongoDB`
 
 </td>
 <td width="50%">
