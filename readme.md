@@ -104,7 +104,7 @@ const mahishah = {
 A robust, AI-driven educational evaluation platform built to revolutionize academic assessment in high-volume educational environments like India.<img width="2161" height="70" alt="image" src="https://github.com/user-attachments/assets/69bac0b3-de2b-41e9-8ce0-79f2a1d750f9" />
 
 
-**Tech Stack:** `Python` `Streamlit` `Langchain` `FAISS`
+**Tech Stack:** `HTML` `CSS` `JS` `Gemini API` `Groq Cloud API` `Python` `GoogleGenerativeAIEmbeddings` `Google AI Toolkit`
 
 </td>
 <td width="50%">
